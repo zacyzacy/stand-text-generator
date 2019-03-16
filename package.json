@@ -1,0 +1,25 @@
+{
+  "name": "stand-text-generator",
+  "version": "1.0.0",
+  "description": "Generate Jojos Bizare Adventure Stand Names quickly and programatically. ",
+  "main": "standtext.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacyzacy/stand-text-generator.git"
+  },
+  "keywords": [
+    "Jojos",
+    "Bizare",
+    "Adventure",
+    "Stand"
+  ],
+  "author": "Zac Youngdale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacyzacy/stand-text-generator/issues"
+  },
+  "homepage": "https://github.com/zacyzacy/stand-text-generator#readme"
+}
